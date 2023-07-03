@@ -1,20 +1,20 @@
 # ENGAGE Capacity Building Workshop: the pyam package
 
 ![License](https://img.shields.io/github/license/danielhuppmann/ENGAGE-pyam-tutorial)
-[![python](https://img.shields.io/badge/python-3.7_|_3.8_|_3.9-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
+[![python](https://img.shields.io/badge/python-≥3.8,<3.12-blue?logo=python&logoColor=white)](https://github.com/IAMconsortium/pyam)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Copyright 2022 (c) Daniel Huppmann; this repository is released under the [MIT License](LICENSE). 
+Copyright 2022-2023 Daniel Huppmann; this repository is released under the [MIT License](LICENSE). 
 
 ## Overview
 
 <img src="./_static/ENGAGE.png" height="100" align="right" alt="ENGAGE logo" />
 
 This repository holds a [Jupyter notebook](tutorial-notebook.ipynb) for a live-demo
-of the **pyam** package given as part of
-the *Capacity building workshop on good practices in modeling* on February 1, 2022.
+of the **pyam** package given as part of the *hands-on tutorial sessions*
+of the **NAVIGATE-ENGAGE Summer School 2023 on Integrated-Assessment Modeling**.
 This workshop was organized as part of the Horizon 2020 project ENGAGE
-([link](https://www.engage-climate.org/capacity-building-workshop-1-february-2022/)).
+([link](https://www.engage-climate.org/navigate-engage-summer-school-2023/)).
 
 The Jupyter notebook is based on the advanced assignment
 of the [Modelling Lab](https://github.com/danielhuppmann/climate-risks-academy-2021),
