@@ -1,2 +1,2 @@
-pyam-iamc  # the pyam package is released on pypi under this name
+pyam-iamc >= 1.9 # the pyam package is released on pypi under this name
 notebook
