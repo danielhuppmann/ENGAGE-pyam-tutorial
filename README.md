@@ -22,19 +22,27 @@ which was part of the *Climate Risks Academy 2021* organized by
 the European University Institute (EUI) Florence School of Banking and Finance
 in cooperation with Oliver Wyman.
 
-The scenario data used in this tutorial notebook is taken from
-the [NGFS Scenario Explorer hosted by IIASA](https://data.ece.iiasa.ac.at/ngfs),
-Phase 2 (June 2021).
+The **slides for the related presentation** are available
+at https://doi.org/10.5281/zenodo.8112529 (ZENODO).
 
-The slides for the related presentation are available
-at [pure.iiasa.ac.at/id/eprint/17783/](https://pure.iiasa.ac.at/id/eprint/17783/).
+## Tutorial data source
+
+The scenario data used in this tutorial notebook is taken from
+the **NGFS Scenario Ensemble**, Phase 3, see Richters et al, 2022 ([link](https://www.ngfs.net/sites/default/files/medias/documents/ngfs_climate_scenarios_for_central_banks_and_supervisors_.pdf.pdf)).  
+
+The data was downloaded from the following scenario database:
+> **Emissions scenario database of the European Scientific Advisory Board on Climate Change, hosted by IIASA**  
+> Release 2.0  
+> European Scientific Advisory Board on Climate Change, 2023  
+> doi: 	https://doi.org/10.5281/zenodo.7660150  
+> url: 	https://data.ece.iiasa.ac.at/eu-climate-advisory-board  
 
 ## The pyam package
 
 <img src="https://github.com/IAMconsortium/pyam/raw/main/docs/logos/pyam-logo.png" 
 width="133" height="100" align="right" alt="pyam logo" />
 
-This exercise uses the Python package **pyam**, an open-source community toolbox for
+This tutorial uses the Python package **pyam**, an open-source community toolbox for
 analysis & visualization of scenario data.
 The package was developed to facilitate working with timeseries scenario data
 conforming to the format developed by the
