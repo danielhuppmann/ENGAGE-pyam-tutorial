@@ -31,7 +31,8 @@ at [pure.iiasa.ac.at/id/eprint/17783/](https://pure.iiasa.ac.at/id/eprint/17783/
 
 ## The pyam package
 
-<img src="./_static/pyam-logo.png" width="133" height="100" align="right" alt="pyam logo" />
+<img src="https://github.com/IAMconsortium/pyam/raw/main/docs/logos/pyam-logo.png" 
+width="133" height="100" align="right" alt="pyam logo" />
 
 This exercise uses the Python package **pyam**, an open-source community toolbox for
 analysis & visualization of scenario data.
